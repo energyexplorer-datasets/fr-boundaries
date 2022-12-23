@@ -18,6 +18,13 @@ Source : https://github.com/gregoiredavid/france-geojson / Licence Ouverte
 - departements.gpkg
 - regions.gpkg
 
+Direct download :
+
+- https://energyexplorer.s3.fr-par.scw.cloud/communes.a43ce8f71f2969542f258d3b6174084472a254c3e15f1368970a4bdd1c58cbdb.gpkg
+- https://energyexplorer.s3.fr-par.scw.cloud/departements.6ab2fe63c9b50427ddef32f6c5384c113ff8ba31d1e30d7a68d88ad8b7f651f1.gpkg
+- https://energyexplorer.s3.fr-par.scw.cloud/epci.11a54a2d7a13a243cf887b6db92660f2b0fdcf1bae269d9d87ac971fac2da8ed.gpkg
+- https://energyexplorer.s3.fr-par.scw.cloud/regions.674cd4b698eb7af02ee29d81c3cafe4070684f1b6e60d1e852245ef1be892698.gpkg
+
 (Lambert-93)
 
 Source : [ADMIN-EXPRESS (nov 22)](https://geoservices.ign.fr/adminexpress) / IGN / Licence Ouverte
