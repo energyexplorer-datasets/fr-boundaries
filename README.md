@@ -26,6 +26,8 @@ Source : [ADMIN-EXPRESS (nov 22)](https://geoservices.ign.fr/adminexpress) / IGN
  
 - iris.gpkg (Lambert-93)
 
+Direct download : https://energyexplorer.s3.fr-par.scw.cloud/iris.b4a1d9dbfbf951840aaeec9cf7612096454d95ef74756e585c1f2c293f91d9ca.gpkg
+
 Source : [Contours IRIS](https://geoservices.ign.fr/contoursiris) / IGN & INSEE / Licence Ouverte
 
 ## .DOWNLOAD_ME files
