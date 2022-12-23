@@ -1,7 +1,6 @@
-# energyexplorer-datasets/fr-boundaries
-Administrative boundaries used in the EnergyExplorer.org project
+# fr-boundaries
 
-This repository uses GIT-LFS to store large files. You may need to install it. See https://git-lfs.com/
+Administrative boundaries used in the EnergyExplorer.org project
 
 ## Content
 
